@@ -11,7 +11,7 @@ pygame.display.set_caption("My First Pygame Window")
 
 clock = pygame.time.Clock()
 
-x = 300  # circle’s starting x-position
+x = 300  # x’s starting x-position
 
 running = True
 while running:
@@ -21,7 +21,7 @@ while running:
             running = False
 
     # --- UPDATE WORLD ---
-    x = x + 1  # move circle slowly to the right
+    x = x + 1
 
     # --- DRAW WORLD ---
     screen.fill((255, 255, 255))
