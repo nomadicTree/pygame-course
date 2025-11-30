@@ -9,6 +9,7 @@ title: "Lesson 1"
 - [Worksheet](#worksheet)
     - [Predict](#predict)
     - [Run](#run)
+    - [Investigate](#investigate)
     - [Modify](#modify)
     - [Make](#make)
 - [Homework](#homework)
