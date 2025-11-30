@@ -7,7 +7,13 @@ title: "Lesson 1"
 
 - [Starter code](starter_code.py)
 - [Worksheet](#worksheet)
+    - [Predict](#predict)
+    - [Run](#run)
+    - [Modify](#modify)
+    - [Make](#make)
 - [Homework](#homework)
+    - [Requirements](#requirements)
+    - [Options](#options)
 
 ## Worksheet
 
