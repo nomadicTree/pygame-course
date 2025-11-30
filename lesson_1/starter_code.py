@@ -11,7 +11,7 @@ pygame.display.set_caption("My First Pygame Window")
 
 clock = pygame.time.Clock()
 
-x = 300  # x’s starting x-position
+x = 300  # shape's starting x-position
 
 running = True
 while running:
