@@ -2,21 +2,29 @@
 layout: default
 title: "Lesson 1"
 ---
+
 # Lesson 1
+
 - [Starter code](starter_code.md)
 
 ## Sections
+
 - [Worksheet](#worksheet)
 - [Homework](#homework)
 
 ## Summary
+
 In this lesson, you will:
 - Understand the game loop
 - Draw shapes on the screen
 - Animate simple movement
 
+---
+
 ## Worksheet
+
 ### Predict
+
 Predict answers to the following questions without running the program.
 Write your answers down.
 
@@ -27,19 +35,25 @@ Write your answers down.
 1. What will happen when you close the window?
 
 ### Run
+
 Run the program.
 Compare your predictions to the actual behaviour.
 
 ### Investigate
+
 Answer these questions by examining the code.
 Write your answers down.
 
 1. On what line is the window size set?
 1. How would you double the window size?
 1. What does commenting out `pygame.init()` do?
-1. What does changing the line `pygame.draw.circle(screen, (0, 0, 255), (x, 200), 40)` to `pygame.draw.circle(screen, (0, 255, 0), (x, 200), 40)` do?
+1. What does changing  
+   `pygame.draw.circle(screen, (0, 0, 255), (x, 200), 40)`  
+   to  
+   `pygame.draw.circle(screen, (0, 255, 0), (x, 200), 40)`  
+   do?
     - What does this tell you about how Pygame represents colours?
-1. Which line makes the shape move?
+1. Which line number makes the shape move?
 1. Which line number is responsible for drawing the shape?
 1. What happens if you comment out line 30?
     - What does this tell you about what `pygame.display.flip()` does?
