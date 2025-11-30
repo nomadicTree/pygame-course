@@ -12,15 +12,6 @@ title: "Lesson 1"
 - [Worksheet](#worksheet)
 - [Homework](#homework)
 
-## Summary
-
-In this lesson, you will:
-- Understand the game loop
-- Draw shapes on the screen
-- Animate simple movement
-
----
-
 ## Worksheet
 
 ### Predict
