@@ -20,7 +20,6 @@ title: "Lesson 1"
 ### Predict
 
 Predict answers to the following questions without running the program.
-Write your answers down.
 
 1. What colour will the background be?
 1. What shape will be drawn? Where?
@@ -36,7 +35,6 @@ Compare your predictions to the actual behaviour.
 ### Investigate
 
 Answer these questions by examining the code.
-Write your answers down.
 
 1. On what line is the window size set?
 1. How would you double the window size?
