@@ -6,9 +6,6 @@ title: "Lesson 1"
 # Lesson 1
 
 - [Starter code](starter_code.py)
-
-## Sections
-
 - [Worksheet](#worksheet)
 - [Homework](#homework)
 
