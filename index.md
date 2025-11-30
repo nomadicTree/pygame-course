@@ -2,4 +2,4 @@
 
  ## Lessons
 
- - [Lesson 1](lesson1/)
+ - [Lesson 1](lesson1/index.md)
