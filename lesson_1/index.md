@@ -62,14 +62,14 @@ Make changes to explore how the code works.
 ### Make
 Create a small animation scene using only things covered so far.
 
-#### Requirements
+#### **Requirements**
 Your animation must include:
 - One static shape
 - One moving shape
 - At least one colour change
 - One use of `WIDTH` or `HEIGHT` in a calculation
 
-#### Ideas to try
+#### **Ideas to try**
 - A rectangle sliding across the screen
 - A circle moving diagonally
 - A shape that changes colour once at startup
