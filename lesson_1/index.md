@@ -5,7 +5,7 @@ title: "Lesson 1"
 
 # Lesson 1
 
-- [Starter code](starter_code.md)
+- [Starter code](starter_code.py)
 
 ## Sections
 
