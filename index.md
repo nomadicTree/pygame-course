@@ -5,4 +5,4 @@ layout: default
 
 ## Lessons
 
- - [Lesson 1](lesson1/index.md)
+ - [Lesson 1](lesson_1/)
