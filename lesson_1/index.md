@@ -39,7 +39,6 @@ Answer these questions by examining the code.
 
 1. On what line is the window size set?
 1. How would you double the window size?
-1. What does commenting out `pygame.init()` do?
 1. What does changing
    `pygame.draw.circle(screen, (0, 0, 255), (x, 200), 40)`
    to
