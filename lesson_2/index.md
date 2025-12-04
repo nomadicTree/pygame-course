@@ -100,8 +100,8 @@ Complete these tasks in any order.
 
 ##### Inside-bounds?
 Implement `inside_bounds`:
-    - Returns True if every part of the ball is within given bounds
-    - Returns False otherwise
+- Returns True if every part of the ball is within given bounds
+- Returns False otherwise
 
 ##### Randomised bounce velocities
 Change `_move` so that, when the ball bounces, the velocity is slightly randomised.
