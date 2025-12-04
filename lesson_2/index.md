@@ -97,7 +97,7 @@ Complete these tasks in any order.
 1. Modify `_move` so the ball changes colour each time it bounces.
 
 #### Inside-bounds?
-Implement `inside_bounds`:
+Implement a `inside_bounds(x_bounds, y_bounds)` method:
 - Returns True if every part of the ball is within given bounds
 - Returns False otherwise
 
