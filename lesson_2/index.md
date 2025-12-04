@@ -5,14 +5,14 @@ title: "Lesson 2"
 
 # Lesson 2
 
-- [Lesson files](#lesson-files)
+- [Files](#files)
 - [Worksheet](#worksheet)
     - [Investigate](#investigate)
     - [Modify](#modify)
     - [Make](#make)
     - [Extensions](#extensions)
 
-## Lesson files
+## Files
 
 ### [models.py](models.py)
 ```python
