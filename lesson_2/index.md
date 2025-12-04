@@ -10,9 +10,7 @@ title: "Lesson 2"
     - [Investigate](#investigate)
     - [Modify](#modify)
     - [Make](#make)
-- [Homework](#homework)
-    - [Requirements](#requirements)
-    - [Options](#options)
+    - [Extensions](#extensions)
 
 ## Lesson files
 
@@ -91,7 +89,7 @@ def update(self, screen, x_bounds, y_bounds):
     self._draw(screen)
 ```
 
-#### Extension tasks
+#### Extensions
 Complete these tasks in any order.
 
 ##### Colour changing
