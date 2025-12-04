@@ -2,18 +2,31 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    {{ site.head }}
-    {{ site.stylesheet }}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {%- if site.title -%}
+      <title>{{ page.title }} | {{ site.title }}</title>
+    {%- else -%}
+      <title>{{ page.title }}</title>
+    {%- endif -%}
+
+    {%- include head.html -%}
   </head>
 
   <body>
-    {{ content }}
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      {{ content }}
+    </main>
+
+    {%- include footer.html -%}
 
     <!-- Mermaid support -->
     <script type="module">
       import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
       mermaid.initialize({ startOnLoad: true });
     </script>
+
   </body>
 </html>
